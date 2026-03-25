@@ -15,15 +15,6 @@ Architettura distribuita con componenti backend e agenti per raccolta dati.
 
 ---
 
-### ⚙️ Sistema di Supervisione e Telecontrollo
-Sviluppato in ambito lavorativo per infrastrutture stradali.
-
-- **Tech:** Java Spring Boot, Angular  
-- **Focus:** backend + integrazione rete e sicurezza  
-- **Cosa dimostra:** sviluppo in contesto reale, lavoro in team, gestione requisiti  
-
----
-
 ### ⚡ Parallel QuickSort & MergeSort (HPC)
 Implementazione parallela degli algoritmi di ordinamento in ambiente HPC.
 
