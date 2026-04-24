@@ -10,8 +10,7 @@ Architettura distribuita con componenti backend e agenti per raccolta dati.
 - **Cosa dimostra:** progettazione di sistemi complessi, backend, integrazione sicurezza  
 
 🔗 https://github.com/MariusBerinde/corvo.git  
-🔗 https://github.com/MariusBerinde/corvo_server.git  
-🔗 https://github.com/MariusBerinde/agent.git  
+
 
 ---
 
